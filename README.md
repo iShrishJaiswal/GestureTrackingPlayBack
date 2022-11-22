@@ -1,4 +1,4 @@
-# GestureTrackingPlayBack
+# Gesture Tracking PlayBack
 Control YouTube videos with Gestures
 Uses Google Mediapipe, OpenCV and PyAutoGUI libraries in Python
 
